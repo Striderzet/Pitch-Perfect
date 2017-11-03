@@ -1,0 +1,38 @@
+1
+00:00:00,580 --> 00:00:05,230
+The UINavigationController manages
+a stack of UI View Controllers.
+
+2
+00:00:05,230 --> 00:00:08,870
+As such, you can have as many
+View Controllers as your app needs.
+
+3
+00:00:09,910 --> 00:00:11,510
+You need at least one View Controller,
+
+4
+00:00:11,510 --> 00:00:14,010
+and you can add as many as
+it makes sense for your app.
+
+5
+00:00:15,030 --> 00:00:16,470
+You can always add and
+
+6
+00:00:16,470 --> 00:00:20,400
+remove View Controllers from
+a UI View Controller stack.
+
+7
+00:00:20,400 --> 00:00:24,740
+Note that this is in stark contrast to
+the UI tab bar controller you will learn
+
+8
+00:00:24,740 --> 00:00:28,880
+about later in the course, that manages
+a fixed set of UI View controllers.
+

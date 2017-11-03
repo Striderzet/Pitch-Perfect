@@ -1,0 +1,32 @@
+1
+00:00:00,430 --> 00:00:04,260
+Before we go any further,
+let's just do a quick little quiz.
+
+2
+00:00:04,260 --> 00:00:07,939
+You learned that UINavigationController
+is a class that helps us manage
+
+3
+00:00:07,939 --> 00:00:10,750
+the stack of UI View Controllers.
+
+4
+00:00:10,750 --> 00:00:12,378
+We'd often get asked this in class.
+
+5
+00:00:12,378 --> 00:00:17,281
+How many View Controllers can you
+have in your app managed by a single
+
+6
+00:00:17,281 --> 00:00:19,354
+UINavigationController?
+
+7
+00:00:19,354 --> 00:00:26,160
+1, 1 to 2, 1 to 256 or
+1 to as many as you need?
+
